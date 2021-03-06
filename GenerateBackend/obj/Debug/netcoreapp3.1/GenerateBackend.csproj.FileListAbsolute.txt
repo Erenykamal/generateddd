@@ -1,0 +1,15 @@
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\obj\Debug\netcoreapp3.1\GenerateBackend.AssemblyInfoInputs.cache
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\obj\Debug\netcoreapp3.1\GenerateBackend.AssemblyInfo.cs
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\obj\Debug\netcoreapp3.1\GenerateBackend.csproj.CoreCompileInputs.cache
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\bin\Debug\netcoreapp3.1\GenerateBackend.exe
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\bin\Debug\netcoreapp3.1\GenerateBackend.deps.json
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\bin\Debug\netcoreapp3.1\GenerateBackend.runtimeconfig.json
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\bin\Debug\netcoreapp3.1\GenerateBackend.runtimeconfig.dev.json
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\bin\Debug\netcoreapp3.1\GenerateBackend.dll
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\bin\Debug\netcoreapp3.1\GenerateBackend.pdb
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\obj\Debug\netcoreapp3.1\GenerateBackend.csproj.CopyComplete
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\obj\Debug\netcoreapp3.1\GenerateBackend.dll
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\obj\Debug\netcoreapp3.1\GenerateBackend.pdb
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\obj\Debug\netcoreapp3.1\GenerateBackend.genruntimeconfig.cache
+D:\Work\generate Backend and gaeb soluation\GenerateBackend\GenerateBackend\obj\Debug\netcoreapp3.1\GenerateBackend.csprojAssemblyReference.cache

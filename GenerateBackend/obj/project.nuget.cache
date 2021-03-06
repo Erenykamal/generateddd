@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7QNNqlSBwQ4pqeBtqxD5h30amEYhbBjSQb0iJlsKHNeVk8hOAr1OsvKp/CKCuUbLgwuEAqjbvXobVnVkUmMdDA==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\generate Backend and gaeb soluation\\GenerateBackend\\GenerateBackend\\GenerateBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ereny.kamal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
+  "logs": []
+}
